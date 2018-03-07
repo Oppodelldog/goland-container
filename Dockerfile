@@ -1,5 +1,4 @@
-# Visual Studio Code in a container
-#	NOTE: Needs the redering device (yeah... idk)
+# goland IDE in a container
 #
 # docker run -d \
 #    -v /tmp/.X11-unix:/tmp/.X11-unix \
